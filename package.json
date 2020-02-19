@@ -1,0 +1,16 @@
+{
+  "name": "cryptoxchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BitstampService.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
