@@ -37,8 +37,3 @@ const CRYPTO = "eth";
 const CURRENCY = "eur";
 
 sell(CRYPTO, CURRENCY);
-
-1,23
-0,75
-2,5
-Math.random()*2
