@@ -48,4 +48,4 @@ const CRYPTO = "eth";
 
 const CURRENCY = "eur";
 
-//sell(CRYPTO, CURRENCY)
+sell(CRYPTO, CURRENCY);
